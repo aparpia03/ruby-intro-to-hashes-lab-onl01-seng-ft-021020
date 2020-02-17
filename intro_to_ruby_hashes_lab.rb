@@ -3,7 +3,7 @@ empty_hash = {}
 end
 
 def actor
-  the_rock ={:name => ""
+  the_rock ={:name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
